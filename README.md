@@ -1,4 +1,4 @@
-Hi 👋
+### Hi 👋
 
 ---
 
@@ -8,7 +8,7 @@ I enjoy building AI-powered systems, Discord bots, developer tools, and web appl
 
 I focus on writing clean, practical software and improving how systems are designed and built.
 
-## Tech I use
+### Tech I use
 Python • JavaScript • Node.js • MongoDB • Linux • Git
 
 ---
