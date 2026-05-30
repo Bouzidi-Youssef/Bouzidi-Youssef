@@ -22,7 +22,7 @@ I focus on understanding how systems work under the hood and improving how I des
 
 <hr>
 
-<p><strong>Contact:</strong> your.email@example.com</p>
+<p><strong>Contact:</strong> youssefbouzidi727@gmail.com</p>
 
 ---
 
