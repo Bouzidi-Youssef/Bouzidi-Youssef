@@ -1,17 +1,14 @@
-# Hey, I'm Youssef
+Hi 👋
 
-CS student, Linux enthusiast, and backend-focused developer.
+---
 
-I build AI-powered applications, Discord bots, developer tools, web apps, and games using Python and JavaScript.
+I’m Youssef, a CS student and backend-focused developer from Tunisia.
 
-## What I’m into
-- Backend systems and software architecture  
-- AI integrations and automation  
-- Open source development  
-- Building practical, real-world tools  
+I enjoy building AI-powered systems, Discord bots, developer tools, and web applications using Python and JavaScript.
+
+I focus on writing clean, practical software and improving how systems are designed and built.
 
 ## Tech I use
 Python • JavaScript • Node.js • MongoDB • Linux • Git
 
-## Focus
-Creating systems that solve real problems and scale cleanly.
+---
