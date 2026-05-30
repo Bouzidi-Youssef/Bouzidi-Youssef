@@ -36,9 +36,3 @@ I focus on understanding how systems work under the hood and improving how I des
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bouzidi-Youssef&show_icons=true&layout=compact" />
-</p>
