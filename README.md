@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Engineering Student (IPEIT) & Backend-Focused Developer</h3>
+<h3 align="center">Engineering Student • Backend Developer • Creator of JYGame</h3>
 
 <p align="center">
 I’m an engineering student in preparatory studies in Tunisia, interested in backend systems, AI-powered applications, and software design.
@@ -22,9 +22,19 @@ I focus on understanding how systems work under the hood and improving how I des
 
 <hr>
 
-<p><strong>Contact:</strong> youssefbouzidi727@gmail.com</p>
+<h3 align="left">Connect with me</h3>
 
----
+<p align="left">
+  <a href="mailto:youssefbouzidi727@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-youssefbouzidi727%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/589425101833895936">
+    <img src="https://img.shields.io/badge/Discord-ghost4404-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
