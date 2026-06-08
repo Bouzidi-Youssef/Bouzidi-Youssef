@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Engineering Student • Backend Developer • Creator of JYGame</h3>
+<h3 align="center">Engineering Student • Backend Developer • Creator of JyGame</h3>
 
 <p align="center">
 I’m an engineering student in preparatory studies in Tunisia, interested in backend systems, AI-powered applications, and software design.
