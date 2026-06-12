@@ -3,7 +3,7 @@
 
 ［ youssef ］
 ────────────────────────
-I was raised in github
+raised in github
 open source is my language
 
 ［ building ］
