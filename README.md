@@ -3,11 +3,7 @@
 
 ［ youssef ］
 ────────────────────────
-engineering student
-backend developer
-creator of jygame
-
-raised in github
+I was raised in github
 open source is my language
 
 ［ building ］
@@ -30,9 +26,5 @@ clarity over cleverness
 build first, talk later
 
   </pre>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bouzidi-Youssef&show_icons=true&layout=compact&theme=transparent" alt="Youssef's GitHub Stats" width="47.5%" height="200px"/>
 
 </div>
