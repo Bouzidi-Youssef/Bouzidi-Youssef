@@ -1,6 +1,6 @@
 <div align="center">
+  <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 14px; color: #888;">
 
-```text
 ［ youssef ］
 ────────────────────────
 engineering student
@@ -17,7 +17,7 @@ ai-powered tools
 developer utilities
 discord bots
 
-［ stack ］
+［ tech stack ］
 ────────────────────────
 javascript · python
 node.js · mongodb
@@ -28,10 +28,11 @@ linux · git
 minimalism over complexity
 clarity over cleverness
 build first, talk later
-```
+
+  </pre>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bouzidi-Youssef&show_icons=true&layout=compact&theme=transparent" alt="Youssef's GitHub Stats" width="47.5%" height="200px"/>
 
 </div>
