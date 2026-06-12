@@ -1,6 +1,6 @@
 <div align="center">
+  <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 14px; color: #888;">
 
-<pre>
 ［ youssef ］
 ────────────────────────
 I was raised in github
@@ -8,16 +8,11 @@ open source is my language
 
 ［ building ］
 ────────────────────────
-</pre>
-
-<code>
-<a href="https://jygame-documentation.vercel.app/">jygame</a><br>
-ai-powered tools<br>
-developer utilities<br>
+jygame
+ai-powered tools
+developer utilities
 discord bots
-</code>
 
-<pre>
 ［ tech stack ］
 ────────────────────────
 javascript · python
@@ -28,6 +23,5 @@ linux · git
 ────────────────────────
 minimalism over complexity
 clarity over cleverness
-</pre>
-
+  </pre>
 </div>
