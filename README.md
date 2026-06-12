@@ -23,8 +23,5 @@ linux · git
 ────────────────────────
 minimalism over complexity
 clarity over cleverness
-build first, talk later
-
   </pre>
-
 </div>
