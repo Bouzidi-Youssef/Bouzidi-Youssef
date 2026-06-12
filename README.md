@@ -8,10 +8,14 @@ open source is my language
 
 ［ building ］
 ────────────────────────
-jygame
-ai-powered tools
-developer utilities
-discord bots
+  </pre>
+
+  <a href="https://jygame-documentation.vercel.app/">jygame</a><br/>
+  ai-powered tools<br/>
+  developer utilities<br/>
+  discord bots
+
+  <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 14px; color: #888;">
 
 ［ tech stack ］
 ────────────────────────
