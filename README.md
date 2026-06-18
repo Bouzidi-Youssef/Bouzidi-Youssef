@@ -3,8 +3,7 @@
 
 ［ youssef ］
 ────────────────────────
-raised in github
-open source is my language
+open source projects all the way down
 
 ［ building ］
 ────────────────────────
