@@ -3,7 +3,7 @@
 
 ［ youssef ］
 ────────────────────────
-open source projects all the way down
+What I cannot create, I do not understand
 
 ［ building ］
 ────────────────────────
