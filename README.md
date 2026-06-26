@@ -20,6 +20,7 @@ linux · git
 
 ［ values ］
 ────────────────────────
+Software Architecture
 minimalism over complexity
 clarity over cleverness
   </pre>
