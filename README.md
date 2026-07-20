@@ -15,7 +15,8 @@ discord bots
 ［ tech stack ］
 ────────────────────────
 javascript · python
-node.js · mongodb
+typescript · node.js
+postgresql · mongodb
 linux · git
 
 ［ values ］
