@@ -3,26 +3,29 @@
 
 ［ youssef ］
 ────────────────────────
-What I cannot create, I do not understand
+What I cannot create,
+I do not understand
 
 ［ building ］
 ────────────────────────
 jygame
 ai-powered tools
 developer utilities
-discord bots
+open source projects
 
 ［ tech stack ］
 ────────────────────────
 javascript · python
-typescript · node.js
+django · next.js
 postgresql · mongodb
 linux · git
 
 ［ values ］
 ────────────────────────
-Software Architecture
+software architecture
 minimalism over complexity
 clarity over cleverness
+
   </pre>
 </div>
+
