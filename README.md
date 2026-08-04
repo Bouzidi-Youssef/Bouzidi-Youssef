@@ -20,6 +20,7 @@ django · next.js
 postgresql · mongodb
 linux · git
 
+
 ［ values ］
 ────────────────────────
 software architecture
@@ -27,5 +28,8 @@ minimalism over complexity
 clarity over cleverness
 
   </pre>
+
+
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bouzidi-Youssef)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
