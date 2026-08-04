@@ -26,7 +26,6 @@ linux · git
 software architecture
 minimalism over complexity
 clarity over cleverness
-
   </pre>
 </div>
 
